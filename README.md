@@ -1,6 +1,6 @@
 # Code 102: Intro to Software Development
 
-## Welcome to Code Fellows!
+## Welcome to ASAC!
 
 We’re delighted to have you as a member of our Code 102: Intro to Software Development course, where you'll learn the basics of computer programming. It'll be a lot of work and a lot of fun.
 
