@@ -1,0 +1,61 @@
+* {
+    color: white;
+}
+
+h1 {
+    color: red ;
+    background-color: yellow;
+    width: 115px;
+}
+
+p {
+    background-color: salmon;
+}
+
+li{
+    background-color: seagreen;
+}
+
+.orange-color {
+    color: orange;
+}
+
+body {
+    background-color: #4294a6;
+}
+
+
+nav ul li{
+    display: inline;  
+}
+
+.inline-display {
+    display: inline;
+}
+
+ol.styled-boxes li {
+
+    background-color:darkred;
+    margin-top: 15px; 
+    margin-bottom: 15px;
+    
+    border-style: dotted;
+    border-width: 10px;
+
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-right: 22px;
+    padding-left: 22px;
+}
+
+
+ol.styled-boxes li.border-solid{
+    border-style: solid;
+}
+.none-display {
+    display: none;
+}
+
+.block-display {
+    display: block;
+}
